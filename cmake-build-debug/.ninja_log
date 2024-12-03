@@ -1,0 +1,21 @@
+# ninja log v5
+16	679	1702297857475048626	CMakeFiles/dsProject.dir/main.cpp.o	e6856860e7e323d9
+6	673	1704296946664026550	CMakeFiles/dsProject.dir/LinkedList.cpp.o	e35f4126379a5e8b
+6	215	1704296946205187368	CMakeFiles/dsProject.dir/Company.cpp.o	4b86caa0857bfc11
+684	1038	1702323267861263141	CMakeFiles/dsProject.dir/Passenger.cpp.o	a6ac4878908d2ed2
+680	868	1702297857662891459	dsProject	2e04dcfb70770856
+215	249	1704296946243926768	CMakeFiles/dsProject.dir/Bus.cpp.o	a68ec1f3fee24d07
+249	675	1704296946666188646	CMakeFiles/dsProject.dir/PriorityQueue.cpp.o	617e72b2372a3038
+6	674	1704296946664027299	CMakeFiles/dsProject.dir/Node.cpp.o	19294abf78500ede
+6	215	1704296946205212785	CMakeFiles/dsProject.dir/Queue.cpp.o	62ba6c1daabc89e9
+7	216	1704296946205208160	CMakeFiles/dsProject.dir/Station.cpp.o	785ca6a587dd6112
+0	7	0	clean	3c8e6cc385ee00ba
+12	204	1704571598536042594	CMakeFiles/dsProject.dir/Company.cpp.o	4b86caa0857bfc11
+10	680	1704571599011532554	CMakeFiles/dsProject.dir/Node.cpp.o	19294abf78500ede
+10	688	1704571599019818366	CMakeFiles/dsProject.dir/LinkedList.cpp.o	e35f4126379a5e8b
+688	1019	1704571599351906048	CMakeFiles/dsProject.dir/Time.cpp.o	ae0ed30316f673f0
+15	190	1704572354823107025	CMakeFiles/dsProject.dir/Queue.cpp.o	62ba6c1daabc89e9
+16	596	1704572355227583539	CMakeFiles/dsProject.dir/PriorityQueue.cpp.o	617e72b2372a3038
+11	190	1704608876747842686	CMakeFiles/dsProject.dir/LinkedList.cpp.o	e35f4126379a5e8b
+11	190	1704608876747836936	CMakeFiles/dsProject.dir/Node.cpp.o	19294abf78500ede
+190	593	1704608877149806173	CMakeFiles/dsProject.dir/Time.cpp.o	ae0ed30316f673f0
